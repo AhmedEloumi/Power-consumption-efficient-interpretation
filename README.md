@@ -1,4 +1,4 @@
-# Power-consumption-efficient-interpretation
+# Energy Consumption Forecasting 
 
 This project focuses on analyzing and forecasting energy consumption patterns using time series data from a household energy monitoring system of datasetfrom kaggle. The goal is to gain insights into energy usage trends and develop accurate forecasting models that can provide valuable information for optimizing energy consumption and making informed decisions :
 Provide real-time data to understand the energy usage. 
